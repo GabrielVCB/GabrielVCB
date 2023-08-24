@@ -10,3 +10,5 @@ Languages
     <img src="https://skillicons.dev/icons?i=c,python" />
   </a>
 </p>
+
+https://giphy.com/gifs/callofduty-call-of-duty-cod-mw2-D0iSw7Imc7KnYkc4I5
