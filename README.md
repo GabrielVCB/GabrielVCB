@@ -11,4 +11,5 @@ Languages
   </a>
 </p>
 
-https://giphy.com/gifs/callofduty-call-of-duty-cod-mw2-D0iSw7Imc7KnYkc4I5
+![image](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/e8428108-6df8-42fc-954f-5d4129b5b6e9)
+
