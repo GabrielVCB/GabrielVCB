@@ -11,11 +11,7 @@ Languages
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=cs,nodejs,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,python" />
   </a>
 </p>
-<p>
-  <a>
-    <img src="https://skillicons.dev/icons?i=dart,html,css,sass" />
-  </a>
-</p>
+
