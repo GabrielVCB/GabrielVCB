@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![![ghost-mw2](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/53ca3695-bb01-4a12-93d8-20286ebce49d)
-image](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/e8428108-6df8-42fc-954f-5d4129b5b6e9)
+![ghost-mw2](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/98f62884-78fe-4488-bfc8-0c27c4f0a80e)
+![Texto Alternativo](![ghost-mw2](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/ee50e5ac-80aa-4334-b9c0-1234f4be31f0)
+)
 
-![Uploading aa83fa67b15cef9525e08a90fac02c1f.gif…]()
