@@ -12,7 +12,6 @@
   </a>
 </p>
 
-![ghost-mw2](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/98f62884-78fe-4488-bfc8-0c27c4f0a80e)
-![Texto Alternativo](![ghost-mw2](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/ee50e5ac-80aa-4334-b9c0-1234f4be31f0)
-)
+![ghost-mw2](https://github.com/GabrielVCB/GabrielVCB/assets/108097740/98f62884-78fe-4488-bfc8-0c27c4f0a80e){: width="200"}
+
 
