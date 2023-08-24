@@ -8,8 +8,14 @@
 </div>
 
 Languages
-<div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<div>
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,js,ts" />
+  </a>
+</p>
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=dart,html,css,sass" />
+  </a>
+</p>
