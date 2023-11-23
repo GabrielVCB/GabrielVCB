@@ -10,6 +10,6 @@ Languages
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=java&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,python" />
+    <img src="https://skillicons.dev/icons?i=c,python,javascript" />
   </a>
 </p>
