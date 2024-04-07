@@ -3,7 +3,7 @@ Welcome to my profile!
 <div align="center">
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVCB&layout=compact&theme=dark&hide=html,css,scss" />
 </div>
-<img height="152em" src="https://github-readme-stats.vercel.app/api?username=GabrielVCB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 Languages
 ---
 <p>
